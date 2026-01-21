@@ -15,11 +15,20 @@ LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundati
 
 ---
 
+## Project Objectives
+
+LEMUR’s goals are divided into three major facets:
+
+1. **Foundations (F1)** — Develop formal guarantees and performance predictions for LMR. :contentReference[oaicite:5]{index=5}
+2. **Methods (F2)** — Create novel LMR algorithms, metrics, and ethical impact evaluations. :contentReference[oaicite:6]{index=6}
+3. **Applications (F3)** — Apply LMR techniques to real-world domains via collaborations with industry partners. :contentReference[oaicite:7]{index=7}
+
+---
+
 ## Structure
 
 - `participants/` — Per-project summary with links to the respective repositories  
-- `scripts/` — Helper scripts to clone and run project repos locally  
-- `docs/` — Detailed documentation of research objectives and workflows  
+- `scripts/` — Helper scripts to clone and run project repos locally 
 - `config/` — Config files consumed by scripts
 
 ---
@@ -30,3 +39,31 @@ LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundati
    ```bash
    git clone https://github.com/Lemur-dn/lmr-toolbox
    cd lmr-toolbox
+
+2. Review participants/ to see links to individual project repositories.
+
+3. Run:
+   ```bash
+   ./scripts/clone_all.sh
+
+---
+
+## Contributing to the LMR Toolbox Repo
+
+This repository accepts contributions in:
+- Improving documentation in `docs/`
+- Adding new helper scripts in `scripts/`
+- Updating participant links in `participants/`
+
+Please follow the general GitHub workflow:
+1. Fork the repo
+2. Create a feature branch
+3. Submit a pull request
+
+Be respectful and inclusive — this is a collaborative international research project.
+
+---
+
+## Acknowledgements
+
+This project is funded under the Marie Skłodowska-Curie Actions (Horizon Europe).
