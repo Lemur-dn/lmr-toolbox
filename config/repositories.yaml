@@ -1,0 +1,44 @@
+# LEMUR individual projects' repositories configuration
+
+projects:
+  - name: Logic Based Explanation Of Neural Networks
+    university: Università degli Studi di Siena
+    repos:
+      - "https://github.com/<username>/<repo-for-rodrigo>"
+  - name: Performance Guarantees With Multiple Representations
+    university: Poznan University of Technology
+    repos:
+      - "https://github.com/<username>/<repo-for-marco>"
+  - name: Combining Large Language Models And Knowledge Graphs
+    university: Vrije Universiteit Amsterdam
+    repos:
+      - "https://github.com/<username>/<repo-for-fabian>"
+  - name: Lmr Via Neural Probabilistic Logic Programming
+    university: KU Leuven
+    repos:
+      - "https://github.com/<username>/<repo-for-ying>"
+  - name: Class Expression Learning With Multiple Representations
+    university: Universität Paderborn
+    repos:
+      - "https://github.com/<username>/<repo-for-louis>"
+  - name: Socio Ethical Requirements Of Learning With Multiple Representations
+    university: Umeå University
+    repos:
+      - "https://github.com/<username>/<repo-for-pim>"
+  - name: Learning With Multiple Representations Of Data
+    university: Ludwig-Maximilians-University
+    repos:
+      - "https://github.com/<username>/<repo-for-tobias>"
+  - name: Lmr For Supervised Non-linear Dimensionality Reduction
+    university: Bielefeld University
+    repos:
+      - "https://github.com/<username>/<repo-for-isaac>"
+  - name: Lmr For Fault Isolation In Critical Infrastructure Systems
+    university: University of Cyprus
+    repos:
+      - "https://github.com/<username>/<repo-for-charalampos>"
+  - name: Learning With Multiple Representations In Search And Recommendation
+    university: Università degli Studi di Milano-Bicocca
+    repos:
+      - "https://github.com/FaySokli/SB-MoE.git"
+      - "https://github.com/FaySokli/DenseC3.git"
