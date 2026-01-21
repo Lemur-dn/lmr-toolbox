@@ -27,7 +27,7 @@ LEMUR’s goals are divided into three major facets:
 
 ## Structure
 
-- `participants/` — Per-project summary with links to the respective repositories  
+- `projects/` — Per-project summary with links to the respective repositories  
 - `scripts/` — Helper scripts to clone and run project repos locally 
 - `config/` — Config files consumed by scripts
 
