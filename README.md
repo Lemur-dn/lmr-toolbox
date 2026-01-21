@@ -1,6 +1,6 @@
 # LMR Toolbox
 
-This repository serves as the central documentation and tooling hub for the **LEMUR** Doctoral Network on *Learning with Multiple Representations*. :contentReference[oaicite:1]{index=1}
+This repository serves as the central documentation and tooling hub for the **LEMUR** Doctoral Network on *Learning with Multiple Representations*.
 
 It contains:
 - Instructions and links to the individual projects' repositories 
@@ -11,7 +11,7 @@ It contains:
 
 ## Project Overview
 
-LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundations, algorithms, and applications of **Learning with Multiple Representations** (LMR). The core goal is to train 10 PhD researchers in novel approaches to machine learning that emphasize explainability, fairness, weak supervision, and environmental and social impact considerations. :contentReference[oaicite:2]{index=2}
+LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundations, algorithms, and applications of **Learning with Multiple Representations** (LMR). The core goal is to train 10 PhD researchers in novel approaches to machine learning that emphasize explainability, fairness, weak supervision, and environmental and social impact considerations.
 
 ---
 
@@ -19,9 +19,9 @@ LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundati
 
 LEMUR’s goals are divided into three major facets:
 
-1. **Foundations (F1)** — Develop formal guarantees and performance predictions for LMR. :contentReference[oaicite:5]{index=5}
-2. **Methods (F2)** — Create novel LMR algorithms, metrics, and ethical impact evaluations. :contentReference[oaicite:6]{index=6}
-3. **Applications (F3)** — Apply LMR techniques to real-world domains via collaborations with industry partners. :contentReference[oaicite:7]{index=7}
+1. **Foundations (F1)** — Develop formal guarantees and performance predictions for LMR.
+2. **Methods (F2)** — Create novel LMR algorithms, metrics, and ethical impact evaluations.
+3. **Applications (F3)** — Apply LMR techniques to real-world domains via collaborations with industry partners.
 
 ---
 
