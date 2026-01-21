@@ -51,9 +51,8 @@ LEMUR’s goals are divided into three major facets:
 ## Contributing to the LMR Toolbox Repo
 
 This repository accepts contributions in:
-- Improving documentation in `docs/`
 - Adding new helper scripts in `scripts/`
-- Updating participant links in `participants/`
+- Updating repo links and project info in `projects/`
 
 Please follow the general GitHub workflow:
 1. Fork the repo
