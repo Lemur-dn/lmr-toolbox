@@ -1,11 +1,11 @@
-# LEMUR Doctoral Network Participants
+# LEMUR Doctoral Network - Individual Projects
 
 This file lists all individual projects within the LEMUR Doctoral Network  
 on *Learning with Multiple Representations*.
 
 ---
 
-## 1) Logic-Based Explanation Of Neural Networks
+## 1) Logic-Based Explanation of Neural Networks
 **Doctoral Candidate:** Rodrigo Castellano Ontiveros  
 **Institution:** Università degli Studi di Siena  
 **Research Focus:** Logic-based explanation of neural networks; Neuro-Symbolic AI; Explainable AI  
@@ -14,7 +14,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 2) Performance Guarantees With Multiple Representations
+## 2) Performance Guarantees with Multiple Representations
 **Doctoral Candidate:** Marco Grillo  
 **Institution:** Poznan University of Technology  
 **Research Focus:** Performance guarantees with multiple representations; theoretical approaches to data analysis and new algorithms  
@@ -23,7 +23,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 3) Combining Large Language Models And Knowledge Graphs
+## 3) Combining Large Language Models and Knowledge Graphs
 **Doctoral Candidate:** Fabian Hoppe  
 **Institution:** Vrije Universiteit Amsterdam  
 **Research Focus:** Combining Large Language Models and Knowledge Graphs; Neuro-Symbolic AI  
@@ -32,7 +32,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 4) Lmr Via Neural Probabilistic Logic Programming
+## 4) LMR via Neural Probabilistic Logic Programming
 **Doctoral Candidate:** Ying Jiao  
 **Institution:** KU Leuven  
 **Research Focus:** LMR via Neural Probabilistic Logic programming; approximate inference and generative models  
@@ -40,7 +40,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 5) Class Expression Learning With Multiple Representations
+## 5) Class Expression Learning with Multiple Representations
 **Doctoral Candidate:** Louis Mozart Kamdem Teyou  
 **Institution:** Universität Paderborn  
 **Research Focus:** Class expression learning with multiple representations; explainable AI and knowledge graphs 
@@ -49,7 +49,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 6) Socio-Ethical Requirements Of Learning With Multiple Representations
+## 6) Socio-Ethical Requirements of Learning with Multiple Representations
 **Doctoral Candidate:** Pim Kerkhoven  
 **Institution:** Umeå University  
 **Research Focus:** Socio-ethical requirements of learning with multiple representations; responsible AI; requirement analysis  
@@ -59,7 +59,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 7) Learning With Multiple Representations Of Data
+## 7) Learning with Multiple Representations of Data
 **Doctoral Candidate:** Tobias Oberkofler  
 **Institution:** Ludwig-Maximilians-University  
 **Research Focus:** Learning with multiple representations of data; algorithms; formal guarantees; weak supervision 
@@ -79,7 +79,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 9) LMR for Fault Isolation In Critical Infrastructure Systems
+## 9) LMR for Fault Isolation in Critical Infrastructure Systems
 **Doctoral Candidate:** Charalampos Shimillas  
 **Institution:** University of Cyprus  
 **Research Focus:** LMR for fault isolation in critical infrastructure systems; deep learning; online learning  
@@ -89,7 +89,7 @@ on *Learning with Multiple Representations*.
 
 ---
 
-## 10) Learning With Multiple Representations In Search And Recommendation
+## 10) Learning with Multiple Representations in Search and Recommendation
 **Doctoral Candidate:** Effrosyni Sokli  
 **Institution:** Università degli Studi di Milano-Bicocca  
 **Research Focus:** Learning with multiple representations in search and recommendation; representation learning; NLP; information retrieval 
