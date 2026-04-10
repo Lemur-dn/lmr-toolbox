@@ -3,15 +3,6 @@
 This file lists all individual projects within the LEMUR Doctoral Network  
 on *Learning with Multiple Representations*.
 
-#############
-projects:
-  - name: Lmr For Fault Isolation In Critical Infrastructure Systems
-    university: University of Cyprus
-    repos:
-      - "https://github.com/CharisShimillas/ALoRa"
-      - "https://github.com/CharisShimillas/Transformer-based-MTS-Localization"
-#############
-
 ---
 
 ## 1) Logic-Based Explanation Of Neural Networks
