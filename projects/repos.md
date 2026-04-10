@@ -1,7 +1,16 @@
 # LEMUR Doctoral Network Participants
 
 This file lists all individual projects within the LEMUR Doctoral Network  
-on *Learning with Multiple Representations*, with short descriptions.
+on *Learning with Multiple Representations*.
+
+#############
+projects:
+  - name: Lmr For Fault Isolation In Critical Infrastructure Systems
+    university: University of Cyprus
+    repos:
+      - "https://github.com/CharisShimillas/ALoRa"
+      - "https://github.com/CharisShimillas/Transformer-based-MTS-Localization"
+#############
 
 ---
 
@@ -9,7 +18,8 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Rodrigo Castellano Ontiveros  
 **Institution:** Università degli Studi di Siena  
 **Research Focus:** Logic-based explanation of neural networks; Neuro-Symbolic AI; Explainable AI  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/rodrigo-castellano/keras_ns_grounders"
 
 ---
 
@@ -17,7 +27,8 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Marco Grillo  
 **Institution:** Poznan University of Technology  
 **Research Focus:** Performance guarantees with multiple representations; theoretical approaches to data analysis and new algorithms  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/marcgrillo/Active_POR"
 
 ---
 
@@ -25,7 +36,8 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Fabian Hoppe  
 **Institution:** Vrije Universiteit Amsterdam  
 **Research Focus:** Combining Large Language Models and Knowledge Graphs; Neuro-Symbolic AI  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/Fab-Hop/langdeductive"
 
 ---
 
@@ -41,7 +53,8 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Louis Mozart Kamdem Teyou  
 **Institution:** Universität Paderborn  
 **Research Focus:** Class expression learning with multiple representations; explainable AI and knowledge graphs 
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/Louis-Mozart/UPB_UBI"
 
 ---
 
@@ -49,7 +62,9 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Pim Kerkhoven  
 **Institution:** Umeå University  
 **Research Focus:** Socio-ethical requirements of learning with multiple representations; responsible AI; requirement analysis  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/pimkerkhoven/ContextualFairness"
+  - "https://github.com/pimkerkhoven/responsible_ml_use_case"
 
 ---
 
@@ -57,23 +72,29 @@ on *Learning with Multiple Representations*, with short descriptions.
 **Doctoral Candidate:** Tobias Oberkofler  
 **Institution:** Ludwig-Maximilians-University  
 **Research Focus:** Learning with multiple representations of data; algorithms; formal guarantees; weak supervision 
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/JonasHanselle/preference-based-cp"
 
 ---
 
-## 8) Lmr For Supervised Non-linear Dimensionality Reduction
+## 8) LMR for Supervised Non-linear Dimensionality Reduction
 **Doctoral Candidate:** Isaac Jerome Roberts  
 **Institution:** Bielefeld University  
 **Research Focus:** LMR for supervised nonlinear dimensionality reduction; explainable AI; embedding spaces 
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/rizavelioglu/ConceptSim"
+  - "https://github.com/LucaHermes/DeepView"
+  - "https://github.com/Louis-Mozart/UPB_UBI"
 
 ---
 
-## 9) Lmr For Fault Isolation In Critical Infrastructure Systems
+## 9) LMR for Fault Isolation In Critical Infrastructure Systems
 **Doctoral Candidate:** Charalampos Shimillas  
 **Institution:** University of Cyprus  
 **Research Focus:** LMR for fault isolation in critical infrastructure systems; deep learning; online learning  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/CharisShimillas/ALoRa"
+  - "https://github.com/CharisShimillas/Transformer-based-MTS-Localization"
 
 ---
 
