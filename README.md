@@ -1,6 +1,6 @@
 # LMR Toolbox
 
-This repository serves as the central documentation and tooling hub for the **LEMUR** Doctoral Network on *Learning with Multiple Representations*.
+This repository serves as the central documentation and tooling hub for the [**LEMUR** Doctoral Network](https://lemur-dn.github.io/) on *Learning with Multiple Representations*.
 
 It contains:
 - Instructions and links to the individual projects' repositories 
@@ -19,28 +19,28 @@ LEMUR is an MSCA Doctoral Network focused on developing the theoretical foundati
 
 LEMUR’s goals are divided into three major facets:
 
-1. **Foundations (F1)** — Develop formal guarantees and performance predictions for LMR.
-2. **Methods (F2)** — Create novel LMR algorithms, metrics, and ethical impact evaluations.
-3. **Applications (F3)** — Apply LMR techniques to real-world domains via collaborations with industry partners.
+1. **Foundations (F1):** Develop formal guarantees and performance predictions for LMR.
+2. **Methods (F2):** Create novel LMR algorithms, metrics, and ethical impact evaluations.
+3. **Applications (F3):** Apply LMR techniques to real-world domains via collaborations with industry partners.
 
 ---
 
 ## Structure
 
-- `projects/` — Per-project summary with links to the respective repositories  
-- `scripts/` — Helper scripts to clone and run project repos locally 
-- `config/` — Config files consumed by scripts
+- `projects/`: Per-project summary with links to the respective repositories  
+- `scripts/`: Helper scripts to clone and run project repos locally 
+- `config/`: Config files consumed by scripts
 
 ---
 
-## Quickstart
+## Quick Start
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/Lemur-dn/lmr-toolbox
    cd lmr-toolbox
 
-2. Review participants/ to see links to individual project repositories.
+2. Review projects/ to see links to individual project repositories.
 
 3. Run:
    ```bash
@@ -58,8 +58,6 @@ Please follow the general GitHub workflow:
 1. Fork the repo
 2. Create a feature branch
 3. Submit a pull request
-
-Be respectful and inclusive — this is a collaborative international research project.
 
 ---
 
