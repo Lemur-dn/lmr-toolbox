@@ -4,15 +4,15 @@ projects:
   - name: Logic Based Explanation Of Neural Networks
     university: Università degli Studi di Siena
     repos:
-      - "https://github.com/<username>/<repo-for-rodrigo>"
+      - "https://github.com/rodrigo-castellano/keras_ns_grounders"
   - name: Performance Guarantees With Multiple Representations
     university: Poznan University of Technology
     repos:
-      - "https://github.com/<username>/<repo-for-marco>"
+      - "https://github.com/marcgrillo/Active_POR"
   - name: Combining Large Language Models And Knowledge Graphs
     university: Vrije Universiteit Amsterdam
     repos:
-      - "https://github.com/<username>/<repo-for-fabian>"
+      - "https://github.com/Fab-Hop/langdeductive"
   - name: Lmr Via Neural Probabilistic Logic Programming
     university: KU Leuven
     repos:
@@ -20,23 +20,27 @@ projects:
   - name: Class Expression Learning With Multiple Representations
     university: Universität Paderborn
     repos:
-      - "https://github.com/<username>/<repo-for-louis>"
+      - "https://github.com/Louis-Mozart/UPB_UBI"
   - name: Socio Ethical Requirements Of Learning With Multiple Representations
     university: Umeå University
     repos:
-      - "https://github.com/<username>/<repo-for-pim>"
+      - "https://github.com/pimkerkhoven/ContextualFairness"
+      - "https://github.com/pimkerkhoven/responsible_ml_use_case"
   - name: Learning With Multiple Representations Of Data
     university: Ludwig-Maximilians-University
     repos:
-      - "https://github.com/<username>/<repo-for-tobias>"
+      - "https://github.com/JonasHanselle/preference-based-cp"
   - name: Lmr For Supervised Non-linear Dimensionality Reduction
     university: Bielefeld University
     repos:
-      - "https://github.com/<username>/<repo-for-isaac>"
+      - "https://github.com/rizavelioglu/ConceptSim"
+      - "https://github.com/LucaHermes/DeepView"
+      - "https://github.com/Louis-Mozart/UPB_UBI"
   - name: Lmr For Fault Isolation In Critical Infrastructure Systems
     university: University of Cyprus
     repos:
-      - "https://github.com/<username>/<repo-for-charalampos>"
+      - "https://github.com/CharisShimillas/ALoRa"
+      - "https://github.com/CharisShimillas/Transformer-based-MTS-Localization"
   - name: Learning With Multiple Representations In Search And Recommendation
     university: Università degli Studi di Milano-Bicocca
     repos:
