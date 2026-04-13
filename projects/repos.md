@@ -36,7 +36,11 @@ on *Learning with Multiple Representations*.
 **Doctoral Candidate:** Ying Jiao  
 **Institution:** KU Leuven  
 **Research Focus:** LMR via Neural Probabilistic Logic programming; approximate inference and generative models  
-**Repositories:** *(add link)*
+**Repositories:**
+  - "https://github.com/ML-KULeuven/deepproblog"
+  - "https://github.com/ML-KULeuven/deepstochlog"
+  - "https://github.com/ML-KULeuven/deepstochlog-lm"
+  - "https://github.com/DeepProofLog/DPrL-AAAI"
 
 ---
 
