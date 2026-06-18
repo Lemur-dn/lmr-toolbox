@@ -24,6 +24,10 @@ projects:
     university: Universität Paderborn
     repos:
       - "https://github.com/Louis-Mozart/UPB_UBI"
+      - "https://github.com/dice-group/Ontolearn/tree/preference_learning"
+      - "https://github.com/dice-group/dice-embeddings"
+      - "https://github.com/dice-group/owlapy"
+      - "https://github.com/Louis-Mozart/Cache-algorithm-for-concept-learners"
   - name: Socio Ethical Requirements Of Learning With Multiple Representations
     university: Umeå University
     repos:
