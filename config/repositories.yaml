@@ -43,6 +43,7 @@ projects:
       - "https://github.com/rizavelioglu/ConceptSim"
       - "https://github.com/LucaHermes/DeepView"
       - "https://github.com/Louis-Mozart/UPB_UBI"
+      - "https://anonymous.4open.science/r/ExpertLens"
   - name: Lmr For Fault Isolation In Critical Infrastructure Systems
     university: University of Cyprus
     repos:
@@ -53,3 +54,4 @@ projects:
     repos:
       - "https://github.com/FaySokli/SB-MoE.git"
       - "https://github.com/FaySokli/DenseC3.git"
+      - "https://anonymous.4open.science/r/ExpertLens"
