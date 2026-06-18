@@ -24,6 +24,17 @@ LEMUR’s goals are divided into three major facets:
 3. **Applications (F3):** Apply LMR techniques to real-world domains via collaborations with industry partners.
 
 ---
+ 
+## Compatibility & Tool Integration
+ 
+All repositories in the LEMUR network are compatible with [**PyTorch**](https://pytorch.org/), enabling seamless interoperability across individual tools and experiments.
+ 
+The following repositories are examples of individual LEMUR-produced tools working together:
+ 
+- **[ExpertLens](https://anonymous.4open.science/r/ExpertLens/README.md)** — a post-hoc explainability framework for Mixture-of-Experts (MoE)-enhanced dense retrievers, which shifts focus from local scalar feature importance to representation-level global interpretability. ExpertLens uses discriminative embedding space visualisations via [DeepView](https://github.com/LucaHermes/DeepView) to provide interpretable insights into expert routing behavior and embedding space structure. It characterises expert-induced subspaces formulation and expert specialisation through analyses of linguistic properties and semantic themes. ExpertLens was employed to visualise the following LEMUR-produced MoE models: [SB-MoE](https://github.com/FaySokli/SB-MoE.git) and [DenseC3](https://github.com/FaySokli/DenseC3.git).
+- **[DeCaL through DeepView](https://github.com/Louis-Mozart/UPB_UBI)** — a collaborative project that applies [DeepView](https://github.com/LucaHermes/DeepView) to visualise the embedding spaces produced by [DeCaL](https://github.com/dice-group/dice-embeddings) (Degenerate Clifford Algebra Learning), a LEMUR-produced Knowledge Graph Embedding model. It investigates how varying Clifford algebra parameters affect embedding geometry and class separability, and evaluates robustness under incomplete knowledge bases.
+ 
+---
 
 ## Structure
 
