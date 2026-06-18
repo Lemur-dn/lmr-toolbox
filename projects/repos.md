@@ -84,6 +84,7 @@ on *Learning with Multiple Representations*.
   - "https://github.com/rizavelioglu/ConceptSim"
   - "https://github.com/LucaHermes/DeepView"
   - "https://github.com/Louis-Mozart/UPB_UBI"
+  - "https://anonymous.4open.science/r/ExpertLens"
 
 ---
 
@@ -104,3 +105,4 @@ on *Learning with Multiple Representations*.
 **Repositories:**
   - "https://github.com/FaySokli/SB-MoE.git"
   - "https://github.com/FaySokli/DenseC3.git"
+  - "https://anonymous.4open.science/r/ExpertLens"
