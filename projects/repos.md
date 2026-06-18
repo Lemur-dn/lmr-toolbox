@@ -50,6 +50,10 @@ on *Learning with Multiple Representations*.
 **Research Focus:** Class expression learning with multiple representations; explainable AI and knowledge graphs 
 **Repositories:**
   - "https://github.com/Louis-Mozart/UPB_UBI"
+  - "https://github.com/dice-group/Ontolearn/tree/preference_learning"
+  - "https://github.com/dice-group/dice-embeddings"
+  - "https://github.com/dice-group/owlapy"
+  - "https://github.com/Louis-Mozart/Cache-algorithm-for-concept-learners"
 
 ---
 
